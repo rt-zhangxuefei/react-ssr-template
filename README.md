@@ -2,6 +2,12 @@
 
 > 基于 react,react-router,redux,redux-saga,express 等搭建的 ssr 服务端渲染的项目架构
 
+# 运行(根目录下)
+```
+npm run dev // 启动后访问：http://localhost:3000/
+node .\mock\apiserver.js //启动mock api服务
+```
+
 # 为啥做这个？
 
 > 有了 next.js 框架以后，干嘛自己折腾 ssr，主要为了自己体验下整个过程，这里面遇到一些坑，记录在我的博客
