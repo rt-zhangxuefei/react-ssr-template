@@ -10,11 +10,11 @@ node .\mock\apiserver.js //启动mock api服务
 
 # 为啥做这个？
 
-> 有了 next.js 框架以后，干嘛自己折腾 ssr，主要为了自己体验下整个过程，这里面遇到一些坑，记录在我的博客
+> 有了 next.js 框架以后，干嘛自己折腾 ssr，主要为了体验下整个过程，这里面遇到一些坑，记录在[我的博客](http://zhangxuefei.site/p/2166)
 
 # 预渲染？
 
-> 如果不是对首屏 time-to-first-page 特别要求，仅仅为了 SEO，可以考虑下 prerender
+> 如果不是对首屏 time-to-first-page 特别要求，仅仅为了 SEO，可以考虑 prerender
 
 # 还未解决的问题
 
