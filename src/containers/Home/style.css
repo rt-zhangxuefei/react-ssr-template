@@ -1,0 +1,10 @@
+.home p {
+  font-size: 14px;
+  line-height: 20px;
+  padding: 0 10px;
+}
+.title {
+  color: #25a7df;
+  font-size: 16px;
+  padding: 10px 10px 0 10px;
+}
